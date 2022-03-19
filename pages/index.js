@@ -13,40 +13,40 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="https://nextjs.org">My Cinema Intro!</a>
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          Get started by signing up{' '}
+          <code className={styles.code}>pages/signup.js</code>
         </p>
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <h2>Home Theater &rarr;</h2>
+            <p>Find in-depth information about My Cinema Intro, and our plans to amaze your family and friends with a custom tailored experience to your Home Theater.</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Learn &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <h2>Cameo  &rarr;</h2>
+            <p>Learn about My Cinema Intro and our plans to integrate Cameo voice and video stingers!</p>
           </a>
 
           <a
             href="https://github.com/vercel/next.js/tree/canary/examples"
             className={styles.card}
           >
-            <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <h2>Streaming Integration &rarr;</h2>
+            <p>Start your Movie night with an intro experience sure to leave your family and friends speechless. Connect My Cinema Intro to your Home Theater dashboard and use the same streaming platform for all of your Home Theater movie choices.</p>
           </a>
 
           <a
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h2>Deploy &rarr;</h2>
+            <h2>Early Access - Lifetime Membership NFT &rarr;</h2>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              Stand above the crowd with a limited edition NFT to signify your lifetime Membership, Owning the My Cinema Intro NFT establishes your access to the platform as long as the NFT is owned and held.
             </p>
           </a>
         </div>
@@ -60,7 +60,7 @@ export default function Home() {
         >
           Powered by{' '}
           <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
+            <Image src="/mycinemaintro-favicon.svg" alt="My Cinema Intro Logo" width={72} height={16} />
           </span>
         </a>
       </footer>
